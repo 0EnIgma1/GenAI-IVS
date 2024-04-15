@@ -1,0 +1,5 @@
+google-generativeai
+opencv-python
+gtts
+gradio
+playsound==1.2.2
